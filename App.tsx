@@ -6,6 +6,7 @@ import AppLoading from 'expo-app-loading';
 import { StatusBar } from 'react-native';
 
 import { Background } from './src/components/Background'
+import { Home } from './src/screens/Home';
 import { SignIn } from './src/screens/SignIn';
 
 
