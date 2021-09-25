@@ -7,7 +7,7 @@ import { StatusBar } from 'react-native';
 
 import { Background } from './src/components/Background'
 import { Home } from './src/screens/Home';
-import { SignIn } from './src/screens/SignIn';
+
 
 
 export default function App() {
@@ -31,7 +31,7 @@ export default function App() {
         translucent
         />
     
-    <SignIn />
+    <Home />
   </Background>
   );
 }    
